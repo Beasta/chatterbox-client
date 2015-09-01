@@ -57,13 +57,15 @@
  //     \/__/           \/__/       \/__/         \/__/       \/__/    
 
 
-// Go through Bower steps
+// Go through Bower steps DONE
 
 // Get server rolling (hello world)
 	// pass a message
-	// pull down a message
+	// pull down a message--
 
 // protect from xss
+
+
 
 // revist architecture
 	//current thoguhts (room, message, user objects)
